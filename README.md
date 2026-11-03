@@ -13,4 +13,4 @@ I'm a developer in training who loves building web apps and learning new things 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📈 My GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Blainevanheerden1&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com/?user=Blainevanheerden1&theme=radical)
