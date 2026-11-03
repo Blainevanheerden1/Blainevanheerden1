@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=text=HELLO%20WORLD&fontSize=50&fontColor=fff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=HELLO%20WORLD&fontSize=50&fontColor=fff)
 
 ## 👋 About me
 I'm a developer in training who loves building web apps and learning new things every day.
